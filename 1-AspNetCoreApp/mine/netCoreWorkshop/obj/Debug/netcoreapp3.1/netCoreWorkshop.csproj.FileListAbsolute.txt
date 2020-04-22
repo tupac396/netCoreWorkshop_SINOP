@@ -1,0 +1,17 @@
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.exe
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.deps.json
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.runtimeconfig.json
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.runtimeconfig.dev.json
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.dll
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\bin\Debug\netcoreapp3.1\netCoreWorkshop.pdb
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.csprojAssemblyReference.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.AssemblyInfoInputs.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.AssemblyInfo.cs
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.RazorTargetAssemblyInfo.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\staticwebassets\netCoreWorkshop.StaticWebAssets.Manifest.cache
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\staticwebassets\netCoreWorkshop.StaticWebAssets.xml
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.dll
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.pdb
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\1-AspNetCoreApp\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.genruntimeconfig.cache
