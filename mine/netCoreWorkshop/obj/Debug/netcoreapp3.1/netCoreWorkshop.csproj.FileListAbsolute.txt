@@ -62,3 +62,6 @@ C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug
 C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.pdb
 C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.genruntimeconfig.cache
 C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\netCoreWorkshop.csproj.CopyComplete
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\Razor\Views\Articles\Delete.cshtml.g.cs
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\Razor\Views\Articles\Details.cshtml.g.cs
+C:\Users\tupac\source\repos\netCoreWorkshop_SINOP\mine\netCoreWorkshop\obj\Debug\netcoreapp3.1\Razor\Views\Articles\Edit.cshtml.g.cs
